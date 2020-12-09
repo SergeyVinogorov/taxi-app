@@ -1,0 +1,9 @@
+@import './_variables.css';
+
+body{
+	margin: 0;
+}
+.taxi-app{
+	background-color: var(--main-bg-color);
+	height: 100vh;
+}
